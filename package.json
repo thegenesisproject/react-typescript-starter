@@ -1,0 +1,26 @@
+{
+  "name": "react-typescript-starter",
+  "version": "1.0.0",
+  "description": "Starting point for a React-TypeScript app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thegenesisproject/react-typescript-starter.git"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "web",
+    "boilerplate",
+    "baseline"
+  ],
+  "author": "Robin Hood <robinhood.experiment@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thegenesisproject/react-typescript-starter/issues"
+  },
+  "homepage": "https://github.com/thegenesisproject/react-typescript-starter#readme"
+}
